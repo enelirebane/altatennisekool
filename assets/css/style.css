@@ -400,7 +400,7 @@ a.menu-btn:hover .info {
 .sec-banner:after {
     content: "";
     position: absolute;
-    background: url(../../assets/img/dotstop.svg);
+    background: url(../../assets/img/);
     background-size: auto;
     background-repeat: no-repeat;
     width: 17px;
